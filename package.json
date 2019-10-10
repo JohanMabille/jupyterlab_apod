@@ -32,7 +32,8 @@
   },
   "dependencies": {
     "@jupyterlab/application": "^1.1.3",
-    "@jupyterlab/apputils": "^1.1.3"
+    "@jupyterlab/apputils": "^1.1.3",
+    "@phosphor/messaging": "^1.3.0"
   },
   "devDependencies": {
     "rimraf": "^2.6.1",
